@@ -1,4 +1,4 @@
-# Bhoomi-Setu-Project-Report
+
 # Bhoomi Setu — Executive Project Report
 
 **Competition:** Smart India Hackathon (SIH) 2026  
